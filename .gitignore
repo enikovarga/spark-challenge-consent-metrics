@@ -1,0 +1,6 @@
+**/__MACOSX
+.idea/
+**/__pycache__/*
+venv/
+**.crc
+**.DS_Store
