@@ -65,3 +65,6 @@ rm -r ./venv
 rm -r ./solution/input
 rm -r ./solution/output
 ```
+
+### Author
+[Eniko Varga](eniko.varga@live.com)
